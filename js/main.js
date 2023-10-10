@@ -2,7 +2,7 @@ import axiosClient from './api/axiosClient';
 import postApi from './api/postApi';
 const data = {
     id: 'lea319jollj7y1q8',
-    title: 'thai',
+    title: 'van',
 };
 
 async function main() {
